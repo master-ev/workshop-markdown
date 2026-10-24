@@ -146,8 +146,6 @@ java HelloWorld
 ```
 
 ## x86_64 Assembly
-```asm
-```
 
 Build with:
 
@@ -164,8 +162,6 @@ Run with:
 TODO
 
 ## ARM64 Assembly
-```asm
-```
 
 Build with:
 
